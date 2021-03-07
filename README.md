@@ -6,7 +6,8 @@ __Libraries__ - _Built-In Python module subprocess, shutil, time, os_
 File Discription
 ReversePyramid.java, ReversePyramid.cpp, ReversePyramid.py are class based implementation.
 Input -5
-'''
+
+'
 __Output__
 Enter the number of rows: 5
 *********
@@ -14,4 +15,4 @@ Enter the number of rows: 5
   *****
    ***
     *
-'''
+'
