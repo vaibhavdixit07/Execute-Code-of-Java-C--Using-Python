@@ -20,5 +20,6 @@ class ChildReversePyramid(ReversePyramid):
 
 if __name__ == '__main__':
     row = int(input("Enter the number of rows: "))
+    print()
     obj = ChildReversePyramid(row)
     obj.printPyramid()
