@@ -1,2 +1,3 @@
 *.class
 *.exe
+__init__.py
